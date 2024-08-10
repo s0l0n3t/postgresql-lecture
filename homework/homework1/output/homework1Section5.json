@@ -1,0 +1,237 @@
+[
+  {
+    "film_id": 247,
+    "title": "Downhill Enough",
+    "description": "A Emotional Tale of a Pastry Chef And a Forensic Psychologist who must Succumb a Monkey in The Sahara Desert",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 47,
+    "replacement_cost": "19.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'chef':9 'desert':22 'downhil':1 'emot':4 'enough':2 'forens':12 'monkey':18 'must':15 'pastri':8 'psychologist':13 'sahara':21 'succumb':16 'tale':5"
+  },
+  {
+    "film_id": 407,
+    "title": "Hawk Chill",
+    "description": "A Action-Packed Drama of a Mad Scientist And a Composer who must Outgun a Car in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "0.99",
+    "length": 47,
+    "replacement_cost": "12.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'australia':21 'car':19 'chill':2 'compos':14 'drama':7 'hawk':1 'mad':10 'must':16 'outgun':17 'pack':6 'scientist':11"
+  },
+  {
+    "film_id": 430,
+    "title": "Hook Chariots",
+    "description": "A Insightful Story of a Boy And a Dog who must Redeem a Boy in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 49,
+    "replacement_cost": "23.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'australia':18 'boy':8,16 'chariot':2 'dog':11 'hook':1 'insight':4 'must':13 'redeem':14 'stori':5"
+  },
+  {
+    "film_id": 504,
+    "title": "Kwai Homeward",
+    "description": "A Amazing Drama of a Car And a Squirrel who must Pursue a Car in Soviet Georgia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "0.99",
+    "length": 46,
+    "replacement_cost": "25.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'amaz':4 'car':8,16 'drama':5 'georgia':19 'homeward':2 'kwai':1 'must':13 'pursu':14 'soviet':18 'squirrel':11"
+  },
+  {
+    "film_id": 753,
+    "title": "Rush Goodfellas",
+    "description": "A Emotional Display of a Man And a Dentist who must Challenge a Squirrel in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 48,
+    "replacement_cost": "20.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes"
+    ],
+    "fulltext": "'australia':18 'challeng':14 'dentist':11 'display':5 'emot':4 'goodfella':2 'man':8 'must':13 'rush':1 'squirrel':16"
+  },
+  {
+    "film_id": 524,
+    "title": "Lion Uncut",
+    "description": "A Intrepid Display of a Pastry Chef And a Cat who must Kill a A Shark in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 50,
+    "replacement_cost": "13.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':20 'cat':12 'chef':9 'china':21 'display':5 'intrepid':4 'kill':15 'lion':1 'must':14 'pastri':8 'shark':18 'uncut':2"
+  },
+  {
+    "film_id": 617,
+    "title": "Natural Stock",
+    "description": "A Fast-Paced Story of a Sumo Wrestler And a Girl who must Defeat a Car in A Baloon Factory",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 50,
+    "replacement_cost": "24.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'baloon':22 'car':19 'defeat':17 'factori':23 'fast':5 'fast-pac':4 'girl':14 'must':16 'natur':1 'pace':6 'stock':2 'stori':7 'sumo':10 'wrestler':11"
+  },
+  {
+    "film_id": 630,
+    "title": "Notting Speakeasy",
+    "description": "A Thoughtful Display of a Butler And a Womanizer who must Find a Waitress in The Canadian Rockies",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 48,
+    "replacement_cost": "19.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'butler':8 'canadian':19 'display':5 'find':14 'must':13 'not':1 'rocki':20 'speakeasi':2 'thought':4 'waitress':16 'woman':11"
+  },
+  {
+    "film_id": 634,
+    "title": "Odds Boogie",
+    "description": "A Thrilling Yarn of a Feminist And a Madman who must Battle a Hunter in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 48,
+    "replacement_cost": "14.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'battl':14 'berlin':18 'boogi':2 'feminist':8 'hunter':16 'madman':11 'must':13 'odd':1 'thrill':4 'yarn':5"
+  },
+  {
+    "film_id": 730,
+    "title": "Ridgemont Submarine",
+    "description": "A Unbelieveable Drama of a Waitress And a Composer who must Sink a Mad Cow in Ancient Japan",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 46,
+    "replacement_cost": "28.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':19 'compos':11 'cow':17 'drama':5 'japan':20 'mad':16 'must':13 'ridgemont':1 'sink':14 'submarin':2 'unbeliev':4 'waitress':8"
+  },
+  {
+    "film_id": 812,
+    "title": "Smoking Barbarella",
+    "description": "A Lacklusture Saga of a Mad Cow And a Mad Scientist who must Sink a Cat in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 50,
+    "replacement_cost": "13.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'barbarella':2 'cat':18 'convent':22 'cow':9 'lacklustur':4 'mad':8,12 'must':15 'mysql':21 'saga':5 'scientist':13 'sink':16 'smoke':1"
+  },
+  {
+    "film_id": 866,
+    "title": "Sunset Racer",
+    "description": "A Awe-Inspiring Reflection of a Astronaut And a A Shark who must Defeat a Forensic Psychologist in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 48,
+    "replacement_cost": "28.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'astronaut':10 'awe':5 'awe-inspir':4 'california':22 'defeat':17 'forens':19 'inspir':6 'must':16 'psychologist':20 'racer':2 'reflect':7 'shark':14 'sunset':1"
+  },
+  {
+    "film_id": 931,
+    "title": "Valentine Vanishing",
+    "description": "A Thrilling Display of a Husband And a Butler who must Reach a Pastry Chef in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 48,
+    "replacement_cost": "9.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'butler':11 'california':19 'chef':17 'display':5 'husband':8 'must':13 'pastri':16 'reach':14 'thrill':4 'valentin':1 'vanish':2"
+  }
+]

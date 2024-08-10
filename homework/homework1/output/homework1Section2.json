@@ -1,0 +1,1887 @@
+[
+  {
+    "film_id": 98,
+    "title": "Bright Encounters",
+    "description": "A Fateful Yarn of a Lumberjack And a Feminist who must Conquer a Student in A Jet Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 73,
+    "replacement_cost": "12.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'boat':20 'bright':1 'conquer':14 'encount':2 'fate':4 'feminist':11 'jet':19 'lumberjack':8 'must':13 'student':16 'yarn':5"
+  },
+  {
+    "film_id": 7,
+    "title": "Airplane Sierra",
+    "description": "A Touching Saga of a Hunter And a Butler who must Discover a Butler in A Jet Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "4.99",
+    "length": 62,
+    "replacement_cost": "28.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'airplan':1 'boat':20 'butler':11,16 'discov':14 'hunter':8 'jet':19 'must':13 'saga':5 'sierra':2 'touch':4"
+  },
+  {
+    "film_id": 10,
+    "title": "Aladdin Calendar",
+    "description": "A Action-Packed Tale of a Man And a Lumberjack who must Reach a Feminist in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "4.99",
+    "length": 63,
+    "replacement_cost": "24.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'aladdin':1 'ancient':20 'calendar':2 'china':21 'feminist':18 'lumberjack':13 'man':10 'must':15 'pack':6 'reach':16 'tale':7"
+  },
+  {
+    "film_id": 25,
+    "title": "Angels Life",
+    "description": "A Thoughtful Display of a Woman And a Astronaut who must Battle a Robot in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 74,
+    "replacement_cost": "15.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'angel':1 'astronaut':11 'battl':14 'berlin':18 'display':5 'life':2 'must':13 'robot':16 'thought':4 'woman':8"
+  },
+  {
+    "film_id": 34,
+    "title": "Arabia Dogma",
+    "description": "A Touching Epistle of a Madman And a Mad Cow who must Defeat a Student in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 62,
+    "replacement_cost": "29.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'arabia':1 'cow':12 'defeat':15 'dogma':2 'epistl':5 'mad':11 'madman':8 'must':14 'nigeria':19 'student':17 'touch':4"
+  },
+  {
+    "film_id": 38,
+    "title": "Ark Ridgemont",
+    "description": "A Beautiful Yarn of a Pioneer And a Monkey who must Pursue a Explorer in The Sahara Desert",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 68,
+    "replacement_cost": "25.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ark':1 'beauti':4 'desert':20 'explor':16 'monkey':11 'must':13 'pioneer':8 'pursu':14 'ridgemont':2 'sahara':19 'yarn':5"
+  },
+  {
+    "film_id": 55,
+    "title": "Barbarella Streetcar",
+    "description": "A Awe-Inspiring Story of a Feminist And a Cat who must Conquer a Dog in A Monastery",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 65,
+    "replacement_cost": "27.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'awe':5 'awe-inspir':4 'barbarella':1 'cat':13 'conquer':16 'dog':18 'feminist':10 'inspir':6 'monasteri':21 'must':15 'stori':7 'streetcar':2"
+  },
+  {
+    "film_id": 63,
+    "title": "Bedazzled Married",
+    "description": "A Astounding Character Study of a Madman And a Robot who must Meet a Mad Scientist in An Abandoned Fun House",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 73,
+    "replacement_cost": "21.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'abandon':21 'astound':4 'bedazzl':1 'charact':5 'fun':22 'hous':23 'mad':17 'madman':9 'marri':2 'meet':15 'must':14 'robot':12 'scientist':18 'studi':6"
+  },
+  {
+    "film_id": 77,
+    "title": "Birds Perdition",
+    "description": "A Boring Story of a Womanizer And a Pioneer who must Face a Dog in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 61,
+    "replacement_cost": "15.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'bird':1 'bore':4 'california':18 'dog':16 'face':14 'must':13 'perdit':2 'pioneer':11 'stori':5 'woman':8"
+  },
+  {
+    "film_id": 82,
+    "title": "Blood Argonauts",
+    "description": "A Boring Drama of a Explorer And a Man who must Kill a Lumberjack in A Manhattan Penthouse",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 71,
+    "replacement_cost": "13.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'argonaut':2 'blood':1 'bore':4 'drama':5 'explor':8 'kill':14 'lumberjack':16 'man':11 'manhattan':19 'must':13 'penthous':20"
+  },
+  {
+    "film_id": 85,
+    "title": "Bonnie Holocaust",
+    "description": "A Fast-Paced Story of a Crocodile And a Robot who must Find a Moose in Ancient Japan",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 63,
+    "replacement_cost": "29.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':20 'bonni':1 'crocodil':10 'fast':5 'fast-pac':4 'find':16 'holocaust':2 'japan':21 'moos':18 'must':15 'pace':6 'robot':13 'stori':7"
+  },
+  {
+    "film_id": 89,
+    "title": "Borrowers Bedazzled",
+    "description": "A Brilliant Epistle of a Teacher And a Sumo Wrestler who must Defeat a Man in An Abandoned Fun House",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 63,
+    "replacement_cost": "22.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'abandon':20 'bedazzl':2 'borrow':1 'brilliant':4 'defeat':15 'epistl':5 'fun':21 'hous':22 'man':17 'must':14 'sumo':11 'teacher':8 'wrestler':12"
+  },
+  {
+    "film_id": 90,
+    "title": "Boulevard Mob",
+    "description": "A Fateful Epistle of a Moose And a Monkey who must Confront a Lumberjack in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 63,
+    "replacement_cost": "11.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'ancient':18 'boulevard':1 'china':19 'confront':14 'epistl':5 'fate':4 'lumberjack':16 'mob':2 'monkey':11 'moos':8 'must':13"
+  },
+  {
+    "film_id": 92,
+    "title": "Bowfinger Gables",
+    "description": "A Fast-Paced Yarn of a Waitress And a Composer who must Outgun a Dentist in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 72,
+    "replacement_cost": "19.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'bowfing':1 'california':20 'compos':13 'dentist':18 'fast':5 'fast-pac':4 'gabl':2 'must':15 'outgun':16 'pace':6 'waitress':10 'yarn':7"
+  },
+  {
+    "film_id": 101,
+    "title": "Brotherhood Blanket",
+    "description": "A Fateful Character Study of a Butler And a Technical Writer who must Sink a Astronaut in Ancient Japan",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 73,
+    "replacement_cost": "26.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':20 'astronaut':18 'blanket':2 'brotherhood':1 'butler':9 'charact':5 'fate':4 'japan':21 'must':15 'sink':16 'studi':6 'technic':12 'writer':13"
+  },
+  {
+    "film_id": 106,
+    "title": "Bulworth Commandments",
+    "description": "A Amazing Display of a Mad Cow And a Pioneer who must Redeem a Sumo Wrestler in The Outback",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 61,
+    "replacement_cost": "14.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'amaz':4 'bulworth':1 'command':2 'cow':9 'display':5 'mad':8 'must':14 'outback':21 'pioneer':12 'redeem':15 'sumo':17 'wrestler':18"
+  },
+  {
+    "film_id": 107,
+    "title": "Bunch Minds",
+    "description": "A Emotional Story of a Feminist And a Feminist who must Escape a Pastry Chef in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 63,
+    "replacement_cost": "13.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'bunch':1 'chef':17 'convent':21 'emot':4 'escap':14 'feminist':8,11 'mind':2 'must':13 'mysql':20 'pastri':16 'stori':5"
+  },
+  {
+    "film_id": 108,
+    "title": "Butch Panther",
+    "description": "A Lacklusture Yarn of a Feminist And a Database Administrator who must Face a Hunter in New Orleans",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 67,
+    "replacement_cost": "19.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'administr':12 'butch':1 'databas':11 'face':15 'feminist':8 'hunter':17 'lacklustur':4 'must':14 'new':19 'orlean':20 'panther':2 'yarn':5"
+  },
+  {
+    "film_id": 114,
+    "title": "Camelot Vacation",
+    "description": "A Touching Character Study of a Woman And a Waitress who must Battle a Pastry Chef in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 61,
+    "replacement_cost": "26.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'battl':15 'camelot':1 'charact':5 'chef':18 'convent':22 'must':14 'mysql':21 'pastri':17 'studi':6 'touch':4 'vacat':2 'waitress':12 'woman':9"
+  },
+  {
+    "film_id": 116,
+    "title": "Candidate Perdition",
+    "description": "A Brilliant Epistle of a Composer And a Database Administrator who must Vanquish a Mad Scientist in The First Manned Space Station",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 70,
+    "replacement_cost": "10.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':12 'brilliant':4 'candid':1 'compos':8 'databas':11 'epistl':5 'first':21 'mad':17 'man':22 'must':14 'perdit':2 'scientist':18 'space':23 'station':24 'vanquish':15"
+  },
+  {
+    "film_id": 125,
+    "title": "Cassidy Wyoming",
+    "description": "A Intrepid Drama of a Frisbee And a Hunter who must Kill a Secret Agent in New Orleans",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "2.99",
+    "length": 61,
+    "replacement_cost": "19.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'agent':17 'cassidi':1 'drama':5 'frisbe':8 'hunter':11 'intrepid':4 'kill':14 'must':13 'new':19 'orlean':20 'secret':16 'wyom':2"
+  },
+  {
+    "film_id": 135,
+    "title": "Chance Resurrection",
+    "description": "A Astounding Story of a Forensic Psychologist And a Forensic Psychologist who must Overcome a Moose in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 70,
+    "replacement_cost": "22.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':20 'astound':4 'chanc':1 'china':21 'forens':8,12 'moos':18 'must':15 'overcom':16 'psychologist':9,13 'resurrect':2 'stori':5"
+  },
+  {
+    "film_id": 137,
+    "title": "Charade Duffel",
+    "description": "A Action-Packed Display of a Man And a Waitress who must Build a Dog in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 66,
+    "replacement_cost": "21.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'build':16 'charad':1 'convent':22 'display':7 'dog':18 'duffel':2 'man':10 'must':15 'mysql':21 'pack':6 'waitress':13"
+  },
+  {
+    "film_id": 138,
+    "title": "Chariots Conspiracy",
+    "description": "A Unbelieveable Epistle of a Robot And a Husband who must Chase a Robot in The First Manned Space Station",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "2.99",
+    "length": 71,
+    "replacement_cost": "29.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'chariot':1 'chase':14 'conspiraci':2 'epistl':5 'first':19 'husband':11 'man':20 'must':13 'robot':8,16 'space':21 'station':22 'unbeliev':4"
+  },
+  {
+    "film_id": 144,
+    "title": "Chinatown Gladiator",
+    "description": "A Brilliant Panorama of a Technical Writer And a Lumberjack who must Escape a Butler in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 61,
+    "replacement_cost": "24.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':19 'brilliant':4 'butler':17 'chinatown':1 'escap':15 'gladiat':2 'india':20 'lumberjack':12 'must':14 'panorama':5 'technic':8 'writer':9"
+  },
+  {
+    "film_id": 160,
+    "title": "Club Graffiti",
+    "description": "A Epic Tale of a Pioneer And a Hunter who must Escape a Girl in A U-Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 65,
+    "replacement_cost": "12.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'boat':21 'club':1 'epic':4 'escap':14 'girl':16 'graffiti':2 'hunter':11 'must':13 'pioneer':8 'tale':5 'u':20 'u-boat':19"
+  },
+  {
+    "film_id": 161,
+    "title": "Clue Grail",
+    "description": "A Taut Tale of a Butler And a Mad Scientist who must Build a Crocodile in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "4.99",
+    "length": 70,
+    "replacement_cost": "27.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':19 'build':15 'butler':8 'china':20 'clue':1 'crocodil':17 'grail':2 'mad':11 'must':14 'scientist':12 'tale':5 'taut':4"
+  },
+  {
+    "film_id": 165,
+    "title": "Coldblooded Darling",
+    "description": "A Brilliant Panorama of a Dentist And a Moose who must Find a Student in The Gulf of Mexico",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 70,
+    "replacement_cost": "27.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'brilliant':4 'coldblood':1 'darl':2 'dentist':8 'find':14 'gulf':19 'mexico':21 'moos':11 'must':13 'panorama':5 'student':16"
+  },
+  {
+    "film_id": 168,
+    "title": "Comancheros Enemy",
+    "description": "A Boring Saga of a Lumberjack And a Monkey who must Find a Monkey in The Gulf of Mexico",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "0.99",
+    "length": 67,
+    "replacement_cost": "23.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'bore':4 'comanchero':1 'enemi':2 'find':14 'gulf':19 'lumberjack':8 'mexico':21 'monkey':11,16 'must':13 'saga':5"
+  },
+  {
+    "film_id": 173,
+    "title": "Confessions Maguire",
+    "description": "A Insightful Story of a Car And a Boy who must Battle a Technical Writer in A Baloon",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 65,
+    "replacement_cost": "25.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'baloon':20 'battl':14 'boy':11 'car':8 'confess':1 'insight':4 'maguir':2 'must':13 'stori':5 'technic':16 'writer':17"
+  },
+  {
+    "film_id": 186,
+    "title": "Craft Outfield",
+    "description": "A Lacklusture Display of a Explorer And a Hunter who must Succumb a Database Administrator in A Baloon Factory",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 64,
+    "replacement_cost": "17.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':17 'baloon':20 'craft':1 'databas':16 'display':5 'explor':8 'factori':21 'hunter':11 'lacklustur':4 'must':13 'outfield':2 'succumb':14"
+  },
+  {
+    "film_id": 196,
+    "title": "Cruelty Unforgiven",
+    "description": "A Brilliant Tale of a Car And a Moose who must Battle a Dentist in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 69,
+    "replacement_cost": "29.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'battl':14 'brilliant':4 'car':8 'cruelti':1 'dentist':16 'moos':11 'must':13 'nigeria':18 'tale':5 'unforgiven':2"
+  },
+  {
+    "film_id": 222,
+    "title": "Desert Poseidon",
+    "description": "A Brilliant Documentary of a Butler And a Frisbee who must Build a Astronaut in New Orleans",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 64,
+    "replacement_cost": "27.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'astronaut':16 'brilliant':4 'build':14 'butler':8 'desert':1 'documentari':5 'frisbe':11 'must':13 'new':18 'orlean':19 'poseidon':2"
+  },
+  {
+    "film_id": 231,
+    "title": "Dinosaur Secretary",
+    "description": "A Action-Packed Drama of a Feminist And a Girl who must Reach a Robot in The Canadian Rockies",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "2.99",
+    "length": 63,
+    "replacement_cost": "27.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'canadian':21 'dinosaur':1 'drama':7 'feminist':10 'girl':13 'must':15 'pack':6 'reach':16 'robot':18 'rocki':22 'secretari':2"
+  },
+  {
+    "film_id": 235,
+    "title": "Divide Monster",
+    "description": "A Intrepid Saga of a Man And a Forensic Psychologist who must Reach a Squirrel in A Monastery",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 68,
+    "replacement_cost": "13.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'divid':1 'forens':11 'intrepid':4 'man':8 'monasteri':20 'monster':2 'must':14 'psychologist':12 'reach':15 'saga':5 'squirrel':17"
+  },
+  {
+    "film_id": 242,
+    "title": "Doom Dancing",
+    "description": "A Astounding Panorama of a Car And a Mad Scientist who must Battle a Lumberjack in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 68,
+    "replacement_cost": "13.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'astound':4 'battl':15 'car':8 'convent':21 'danc':2 'doom':1 'lumberjack':17 'mad':11 'must':14 'mysql':20 'panorama':5 'scientist':12"
+  },
+  {
+    "film_id": 253,
+    "title": "Drifter Commandments",
+    "description": "A Epic Reflection of a Womanizer And a Squirrel who must Discover a Husband in A Jet Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 61,
+    "replacement_cost": "18.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'boat':20 'command':2 'discov':14 'drifter':1 'epic':4 'husband':16 'jet':19 'must':13 'reflect':5 'squirrel':11 'woman':8"
+  },
+  {
+    "film_id": 274,
+    "title": "Egg Igby",
+    "description": "A Beautiful Documentary of a Boat And a Sumo Wrestler who must Succumb a Database Administrator in The First Manned Space Station",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 67,
+    "replacement_cost": "20.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':18 'beauti':4 'boat':8 'databas':17 'documentari':5 'egg':1 'first':21 'igbi':2 'man':22 'must':14 'space':23 'station':24 'succumb':15 'sumo':11 'wrestler':12"
+  },
+  {
+    "film_id": 289,
+    "title": "Eve Resurrection",
+    "description": "A Awe-Inspiring Yarn of a Pastry Chef And a Database Administrator who must Challenge a Teacher in A Baloon",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 66,
+    "replacement_cost": "25.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'administr':15 'awe':5 'awe-inspir':4 'baloon':23 'challeng':18 'chef':11 'databas':14 'eve':1 'inspir':6 'must':17 'pastri':10 'resurrect':2 'teacher':20 'yarn':7"
+  },
+  {
+    "film_id": 311,
+    "title": "Fiction Christmas",
+    "description": "A Emotional Yarn of a A Shark And a Student who must Battle a Robot in An Abandoned Mine Shaft",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 72,
+    "replacement_cost": "14.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'abandon':20 'battl':15 'christma':2 'emot':4 'fiction':1 'mine':21 'must':14 'robot':17 'shaft':22 'shark':9 'student':12 'yarn':5"
+  },
+  {
+    "film_id": 326,
+    "title": "Flying Hook",
+    "description": "A Thrilling Display of a Mad Cow And a Dog who must Challenge a Frisbee in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 69,
+    "replacement_cost": "18.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'challeng':15 'cow':9 'display':5 'dog':12 'fli':1 'frisbe':17 'hook':2 'mad':8 'must':14 'nigeria':19 'thrill':4"
+  },
+  {
+    "film_id": 329,
+    "title": "Forrest Sons",
+    "description": "A Thrilling Documentary of a Forensic Psychologist And a Butler who must Defeat a Explorer in A Jet Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 63,
+    "replacement_cost": "15.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'boat':21 'butler':12 'defeat':15 'documentari':5 'explor':17 'forens':8 'forrest':1 'jet':20 'must':14 'psychologist':9 'son':2 'thrill':4"
+  },
+  {
+    "film_id": 334,
+    "title": "Freddy Storm",
+    "description": "A Intrepid Saga of a Man And a Lumberjack who must Vanquish a Husband in The Outback",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "4.99",
+    "length": 65,
+    "replacement_cost": "21.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'freddi':1 'husband':16 'intrepid':4 'lumberjack':11 'man':8 'must':13 'outback':19 'saga':5 'storm':2 'vanquish':14"
+  },
+  {
+    "film_id": 337,
+    "title": "Frida Slipper",
+    "description": "A Fateful Story of a Lumberjack And a Car who must Escape a Boat in An Abandoned Mine Shaft",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 73,
+    "replacement_cost": "11.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'abandon':19 'boat':16 'car':11 'escap':14 'fate':4 'frida':1 'lumberjack':8 'mine':20 'must':13 'shaft':21 'slipper':2 'stori':5"
+  },
+  {
+    "film_id": 364,
+    "title": "Godfather Diary",
+    "description": "A Stunning Saga of a Lumberjack And a Squirrel who must Chase a Car in The Outback",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 73,
+    "replacement_cost": "14.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'car':16 'chase':14 'diari':2 'godfath':1 'lumberjack':8 'must':13 'outback':19 'saga':5 'squirrel':11 'stun':4"
+  },
+  {
+    "film_id": 388,
+    "title": "Gunfight Moon",
+    "description": "A Epic Reflection of a Pastry Chef And a Explorer who must Reach a Dentist in The Sahara Desert",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "0.99",
+    "length": 70,
+    "replacement_cost": "16.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'chef':9 'dentist':17 'desert':21 'epic':4 'explor':12 'gunfight':1 'moon':2 'must':14 'pastri':8 'reach':15 'reflect':5 'sahara':20"
+  },
+  {
+    "film_id": 396,
+    "title": "Hanging Deep",
+    "description": "A Action-Packed Yarn of a Boat And a Crocodile who must Build a Monkey in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 62,
+    "replacement_cost": "18.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'berlin':20 'boat':10 'build':16 'crocodil':13 'deep':2 'hang':1 'monkey':18 'must':15 'pack':6 'yarn':7"
+  },
+  {
+    "film_id": 400,
+    "title": "Hardly Robbers",
+    "description": "A Emotional Character Study of a Hunter And a Car who must Kill a Woman in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "2.99",
+    "length": 72,
+    "replacement_cost": "15.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'berlin':19 'car':12 'charact':5 'emot':4 'hard':1 'hunter':9 'kill':15 'must':14 'robber':2 'studi':6 'woman':17"
+  },
+  {
+    "film_id": 408,
+    "title": "Head Stranger",
+    "description": "A Thoughtful Saga of a Hunter And a Crocodile who must Confront a Dog in The Gulf of Mexico",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 69,
+    "replacement_cost": "28.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'confront':14 'crocodil':11 'dog':16 'gulf':19 'head':1 'hunter':8 'mexico':21 'must':13 'saga':5 'stranger':2 'thought':4"
+  },
+  {
+    "film_id": 423,
+    "title": "Hollywood Anonymous",
+    "description": "A Fast-Paced Epistle of a Boy And a Explorer who must Escape a Dog in A U-Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 69,
+    "replacement_cost": "29.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'anonym':2 'boat':23 'boy':10 'dog':18 'epistl':7 'escap':16 'explor':13 'fast':5 'fast-pac':4 'hollywood':1 'must':15 'pace':6 'u':22 'u-boat':21"
+  },
+  {
+    "film_id": 438,
+    "title": "Human Graffiti",
+    "description": "A Beautiful Reflection of a Womanizer And a Sumo Wrestler who must Chase a Database Administrator in The Gulf of Mexico",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 68,
+    "replacement_cost": "22.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':18 'beauti':4 'chase':15 'databas':17 'graffiti':2 'gulf':21 'human':1 'mexico':23 'must':14 'reflect':5 'sumo':11 'woman':8 'wrestler':12"
+  },
+  {
+    "film_id": 442,
+    "title": "Hunting Musketeers",
+    "description": "A Thrilling Reflection of a Pioneer And a Dentist who must Outrace a Womanizer in An Abandoned Mine Shaft",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 65,
+    "replacement_cost": "24.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'abandon':19 'dentist':11 'hunt':1 'mine':20 'musket':2 'must':13 'outrac':14 'pioneer':8 'reflect':5 'shaft':21 'thrill':4 'woman':16"
+  },
+  {
+    "film_id": 459,
+    "title": "Informer Double",
+    "description": "A Action-Packed Display of a Woman And a Dentist who must Redeem a Forensic Psychologist in The Canadian Rockies",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 74,
+    "replacement_cost": "23.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'canadian':22 'dentist':13 'display':7 'doubl':2 'forens':18 'inform':1 'must':15 'pack':6 'psychologist':19 'redeem':16 'rocki':23 'woman':10"
+  },
+  {
+    "film_id": 466,
+    "title": "Intolerable Intentions",
+    "description": "A Awe-Inspiring Story of a Monkey And a Pastry Chef who must Succumb a Womanizer in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "4.99",
+    "length": 63,
+    "replacement_cost": "20.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'awe':5 'awe-inspir':4 'chef':14 'convent':23 'inspir':6 'intent':2 'intoler':1 'monkey':10 'must':16 'mysql':22 'pastri':13 'stori':7 'succumb':17 'woman':19"
+  },
+  {
+    "film_id": 491,
+    "title": "Jumping Wrath",
+    "description": "A Touching Epistle of a Monkey And a Feminist who must Discover a Boat in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 74,
+    "replacement_cost": "18.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'berlin':18 'boat':16 'discov':14 'epistl':5 'feminist':11 'jump':1 'monkey':8 'must':13 'touch':4 'wrath':2"
+  },
+  {
+    "film_id": 502,
+    "title": "Knock Warlock",
+    "description": "A Unbelieveable Story of a Teacher And a Boat who must Confront a Moose in A Baloon",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 71,
+    "replacement_cost": "21.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'baloon':19 'boat':11 'confront':14 'knock':1 'moos':16 'must':13 'stori':5 'teacher':8 'unbeliev':4 'warlock':2"
+  },
+  {
+    "film_id": 506,
+    "title": "Lady Stage",
+    "description": "A Beautiful Character Study of a Woman And a Man who must Pursue a Explorer in A U-Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 67,
+    "replacement_cost": "14.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'beauti':4 'boat':22 'charact':5 'explor':17 'ladi':1 'man':12 'must':14 'pursu':15 'stage':2 'studi':6 'u':21 'u-boat':20 'woman':9"
+  },
+  {
+    "film_id": 514,
+    "title": "Lebowski Soldiers",
+    "description": "A Beautiful Epistle of a Secret Agent And a Pioneer who must Chase a Astronaut in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 69,
+    "replacement_cost": "17.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'agent':9 'ancient':19 'astronaut':17 'beauti':4 'chase':15 'china':20 'epistl':5 'lebowski':1 'must':14 'pioneer':12 'secret':8 'soldier':2"
+  },
+  {
+    "film_id": 560,
+    "title": "Mars Roman",
+    "description": "A Boring Drama of a Car And a Dog who must Succumb a Madman in Soviet Georgia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 62,
+    "replacement_cost": "21.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'bore':4 'car':8 'dog':11 'drama':5 'georgia':19 'madman':16 'mar':1 'must':13 'roman':2 'soviet':18 'succumb':14"
+  },
+  {
+    "film_id": 529,
+    "title": "Lonely Elephant",
+    "description": "A Intrepid Story of a Student And a Dog who must Challenge a Explorer in Soviet Georgia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 67,
+    "replacement_cost": "12.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'challeng':14 'dog':11 'eleph':2 'explor':16 'georgia':19 'intrepid':4 'lone':1 'must':13 'soviet':18 'stori':5 'student':8"
+  },
+  {
+    "film_id": 534,
+    "title": "Louisiana Harry",
+    "description": "A Lacklusture Drama of a Girl And a Technical Writer who must Redeem a Monkey in A Shark Tank",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "0.99",
+    "length": 70,
+    "replacement_cost": "18.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'drama':5 'girl':8 'harri':2 'lacklustur':4 'louisiana':1 'monkey':17 'must':14 'redeem':15 'shark':20 'tank':21 'technic':11 'writer':12"
+  },
+  {
+    "film_id": 536,
+    "title": "Lovely Jingle",
+    "description": "A Fanciful Yarn of a Crocodile And a Forensic Psychologist who must Discover a Crocodile in The Outback",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 65,
+    "replacement_cost": "18.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'crocodil':8,17 'discov':15 'fanci':4 'forens':11 'jingl':2 'love':1 'must':14 'outback':20 'psychologist':12 'yarn':5"
+  },
+  {
+    "film_id": 541,
+    "title": "Luke Mummy",
+    "description": "A Taut Character Study of a Boy And a Robot who must Redeem a Mad Scientist in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "2.99",
+    "length": 74,
+    "replacement_cost": "21.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':20 'boy':9 'charact':5 'india':21 'luke':1 'mad':17 'mummi':2 'must':14 'redeem':15 'robot':12 'scientist':18 'studi':6 'taut':4"
+  },
+  {
+    "film_id": 550,
+    "title": "Maguire Apache",
+    "description": "A Fast-Paced Reflection of a Waitress And a Hunter who must Defeat a Forensic Psychologist in A Baloon",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 74,
+    "replacement_cost": "22.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'apach':2 'baloon':22 'defeat':16 'fast':5 'fast-pac':4 'forens':18 'hunter':13 'maguir':1 'must':15 'pace':6 'psychologist':19 'reflect':7 'waitress':10"
+  },
+  {
+    "film_id": 558,
+    "title": "Mannequin Worst",
+    "description": "A Astounding Saga of a Mad Cow And a Pastry Chef who must Discover a Husband in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 71,
+    "replacement_cost": "18.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':20 'astound':4 'chef':13 'cow':9 'discov':16 'husband':18 'india':21 'mad':8 'mannequin':1 'must':15 'pastri':12 'saga':5 'worst':2"
+  },
+  {
+    "film_id": 566,
+    "title": "Maude Mod",
+    "description": "A Beautiful Documentary of a Forensic Psychologist And a Cat who must Reach a Astronaut in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 72,
+    "replacement_cost": "20.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'astronaut':17 'beauti':4 'cat':12 'documentari':5 'forens':8 'maud':1 'mod':2 'must':14 'nigeria':19 'psychologist':9 'reach':15"
+  },
+  {
+    "film_id": 572,
+    "title": "Metropolis Coma",
+    "description": "A Emotional Saga of a Database Administrator And a Pastry Chef who must Confront a Teacher in A Baloon Factory",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 64,
+    "replacement_cost": "9.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':9 'baloon':21 'chef':13 'coma':2 'confront':16 'databas':8 'emot':4 'factori':22 'metropoli':1 'must':15 'pastri':12 'saga':5 'teacher':18"
+  },
+  {
+    "film_id": 577,
+    "title": "Mile Mulan",
+    "description": "A Lacklusture Epistle of a Cat And a Husband who must Confront a Boy in A MySQL Convention",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 64,
+    "replacement_cost": "10.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'boy':16 'cat':8 'confront':14 'convent':20 'epistl':5 'husband':11 'lacklustur':4 'mile':1 'mulan':2 'must':13 'mysql':19"
+  },
+  {
+    "film_id": 589,
+    "title": "Modern Dorado",
+    "description": "A Awe-Inspiring Story of a Butler And a Sumo Wrestler who must Redeem a Boy in New Orleans",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 74,
+    "replacement_cost": "20.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'awe':5 'awe-inspir':4 'boy':19 'butler':10 'dorado':2 'inspir':6 'modern':1 'must':16 'new':21 'orlean':22 'redeem':17 'stori':7 'sumo':13 'wrestler':14"
+  },
+  {
+    "film_id": 611,
+    "title": "Musketeers Wait",
+    "description": "A Touching Yarn of a Student And a Moose who must Fight a Mad Cow in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 73,
+    "replacement_cost": "17.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'australia':19 'cow':17 'fight':14 'mad':16 'moos':11 'musket':1 'must':13 'student':8 'touch':4 'wait':2 'yarn':5"
+  },
+  {
+    "film_id": 627,
+    "title": "North Tequila",
+    "description": "A Beautiful Character Study of a Mad Cow And a Robot who must Reach a Womanizer in New Orleans",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 67,
+    "replacement_cost": "9.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'beauti':4 'charact':5 'cow':10 'mad':9 'must':15 'new':20 'north':1 'orlean':21 'reach':16 'robot':13 'studi':6 'tequila':2 'woman':18"
+  },
+  {
+    "film_id": 631,
+    "title": "Novocaine Flight",
+    "description": "A Fanciful Display of a Student And a Teacher who must Outgun a Crocodile in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 64,
+    "replacement_cost": "11.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'crocodil':16 'display':5 'fanci':4 'flight':2 'must':13 'nigeria':18 'novocain':1 'outgun':14 'student':8 'teacher':11"
+  },
+  {
+    "film_id": 664,
+    "title": "Patriot Roman",
+    "description": "A Taut Saga of a Robot And a Database Administrator who must Challenge a Astronaut in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 65,
+    "replacement_cost": "12.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'administr':12 'astronaut':17 'california':19 'challeng':15 'databas':11 'must':14 'patriot':1 'robot':8 'roman':2 'saga':5 'taut':4"
+  },
+  {
+    "film_id": 669,
+    "title": "Pearl Destiny",
+    "description": "A Lacklusture Yarn of a Astronaut And a Pastry Chef who must Sink a Dog in A U-Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 74,
+    "replacement_cost": "10.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'astronaut':8 'boat':22 'chef':12 'destini':2 'dog':17 'lacklustur':4 'must':14 'pastri':11 'pearl':1 'sink':15 'u':21 'u-boat':20 'yarn':5"
+  },
+  {
+    "film_id": 688,
+    "title": "Polish Brooklyn",
+    "description": "A Boring Character Study of a Database Administrator And a Lumberjack who must Reach a Madman in The Outback",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 61,
+    "replacement_cost": "12.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':10 'bore':4 'brooklyn':2 'charact':5 'databas':9 'lumberjack':13 'madman':18 'must':15 'outback':21 'polish':1 'reach':16 'studi':6"
+  },
+  {
+    "film_id": 698,
+    "title": "Princess Giant",
+    "description": "A Thrilling Yarn of a Pastry Chef And a Monkey who must Battle a Monkey in A Shark Tank",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "2.99",
+    "length": 71,
+    "replacement_cost": "29.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'battl':15 'chef':9 'giant':2 'monkey':12,17 'must':14 'pastri':8 'princess':1 'shark':20 'tank':21 'thrill':4 'yarn':5"
+  },
+  {
+    "film_id": 713,
+    "title": "Rainbow Shock",
+    "description": "A Action-Packed Story of a Hunter And a Boy who must Discover a Lumberjack in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "4.99",
+    "length": 74,
+    "replacement_cost": "14.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'ancient':20 'boy':13 'discov':16 'hunter':10 'india':21 'lumberjack':18 'must':15 'pack':6 'rainbow':1 'shock':2 'stori':7"
+  },
+  {
+    "film_id": 714,
+    "title": "Random Go",
+    "description": "A Fateful Drama of a Frisbee And a Student who must Confront a Cat in A Shark Tank",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 73,
+    "replacement_cost": "29.99",
+    "rating": "NC-17",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'cat':16 'confront':14 'drama':5 'fate':4 'frisbe':8 'go':2 'must':13 'random':1 'shark':19 'student':11 'tank':20"
+  },
+  {
+    "film_id": 718,
+    "title": "Rebel Airport",
+    "description": "A Intrepid Yarn of a Database Administrator And a Boat who must Outrace a Husband in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 73,
+    "replacement_cost": "24.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'administr':9 'airport':2 'ancient':19 'boat':12 'databas':8 'husband':17 'india':20 'intrepid':4 'must':14 'outrac':15 'rebel':1 'yarn':5"
+  },
+  {
+    "film_id": 726,
+    "title": "Reservoir Adaptation",
+    "description": "A Intrepid Drama of a Teacher And a Moose who must Kill a Car in California",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "2.99",
+    "length": 61,
+    "replacement_cost": "29.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'adapt':2 'california':18 'car':16 'drama':5 'intrepid':4 'kill':14 'moos':11 'must':13 'reservoir':1 'teacher':8"
+  },
+  {
+    "film_id": 728,
+    "title": "Reunion Witches",
+    "description": "A Unbelieveable Documentary of a Database Administrator And a Frisbee who must Redeem a Mad Scientist in A Baloon Factory",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 63,
+    "replacement_cost": "26.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'administr':9 'baloon':21 'databas':8 'documentari':5 'factori':22 'frisbe':12 'mad':17 'must':14 'redeem':15 'reunion':1 'scientist':18 'unbeliev':4 'witch':2"
+  },
+  {
+    "film_id": 759,
+    "title": "Salute Apollo",
+    "description": "A Awe-Inspiring Character Study of a Boy And a Feminist who must Sink a Crocodile in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 73,
+    "replacement_cost": "29.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':21 'apollo':2 'awe':5 'awe-inspir':4 'boy':11 'charact':7 'china':22 'crocodil':19 'feminist':14 'inspir':6 'must':16 'salut':1 'sink':17 'studi':8"
+  },
+  {
+    "film_id": 790,
+    "title": "Shootist Superfly",
+    "description": "A Fast-Paced Story of a Crocodile And a A Shark who must Sink a Pioneer in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 67,
+    "replacement_cost": "22.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'berlin':21 'crocodil':10 'fast':5 'fast-pac':4 'must':16 'pace':6 'pioneer':19 'shark':14 'shootist':1 'sink':17 'stori':7 'superfli':2"
+  },
+  {
+    "film_id": 797,
+    "title": "Silence Kane",
+    "description": "A Emotional Drama of a Sumo Wrestler And a Dentist who must Confront a Sumo Wrestler in A Baloon",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "0.99",
+    "length": 67,
+    "replacement_cost": "23.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'baloon':21 'confront':15 'dentist':12 'drama':5 'emot':4 'kane':2 'must':14 'silenc':1 'sumo':8,17 'wrestler':9,18"
+  },
+  {
+    "film_id": 798,
+    "title": "Silverado Goldfinger",
+    "description": "A Stunning Epistle of a Sumo Wrestler And a Man who must Challenge a Waitress in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 74,
+    "replacement_cost": "11.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries"
+    ],
+    "fulltext": "'ancient':19 'challeng':15 'epistl':5 'goldfing':2 'india':20 'man':12 'must':14 'silverado':1 'stun':4 'sumo':8 'waitress':17 'wrestler':9"
+  },
+  {
+    "film_id": 805,
+    "title": "Sleepless Monsoon",
+    "description": "A Amazing Saga of a Moose And a Pastry Chef who must Escape a Butler in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 64,
+    "replacement_cost": "12.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'amaz':4 'australia':19 'butler':17 'chef':12 'escap':15 'monsoon':2 'moos':8 'must':14 'pastri':11 'saga':5 'sleepless':1"
+  },
+  {
+    "film_id": 815,
+    "title": "Snatchers Montezuma",
+    "description": "A Boring Epistle of a Sumo Wrestler And a Woman who must Escape a Man in The Canadian Rockies",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "2.99",
+    "length": 74,
+    "replacement_cost": "14.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'bore':4 'canadian':20 'epistl':5 'escap':15 'man':17 'montezuma':2 'must':14 'rocki':21 'snatcher':1 'sumo':8 'woman':12 'wrestler':9"
+  },
+  {
+    "film_id": 816,
+    "title": "Snowman Rollercoaster",
+    "description": "A Fateful Display of a Lumberjack And a Girl who must Succumb a Mad Cow in A Manhattan Penthouse",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 62,
+    "replacement_cost": "27.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'cow':17 'display':5 'fate':4 'girl':11 'lumberjack':8 'mad':16 'manhattan':20 'must':13 'penthous':21 'rollercoast':2 'snowman':1 'succumb':14"
+  },
+  {
+    "film_id": 856,
+    "title": "Streetcar Intentions",
+    "description": "A Insightful Character Study of a Waitress And a Crocodile who must Sink a Waitress in The Gulf of Mexico",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 73,
+    "replacement_cost": "11.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'charact':5 'crocodil':12 'gulf':20 'insight':4 'intent':2 'mexico':22 'must':14 'sink':15 'streetcar':1 'studi':6 'waitress':9,17"
+  },
+  {
+    "film_id": 891,
+    "title": "Timberland Sky",
+    "description": "A Boring Display of a Man And a Dog who must Redeem a Girl in A U-Boat",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 69,
+    "replacement_cost": "13.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries"
+    ],
+    "fulltext": "'boat':21 'bore':4 'display':5 'dog':11 'girl':16 'man':8 'must':13 'redeem':14 'sky':2 'timberland':1 'u':20 'u-boat':19"
+  },
+  {
+    "film_id": 877,
+    "title": "Taxi Kick",
+    "description": "A Amazing Epistle of a Girl And a Woman who must Outrace a Waitress in Soviet Georgia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "0.99",
+    "length": 64,
+    "replacement_cost": "23.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'amaz':4 'epistl':5 'georgia':19 'girl':8 'kick':2 'must':13 'outrac':14 'soviet':18 'taxi':1 'waitress':16 'woman':11"
+  },
+  {
+    "film_id": 878,
+    "title": "Teen Apollo",
+    "description": "A Awe-Inspiring Drama of a Dog And a Man who must Escape a Robot in A Shark Tank",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "4.99",
+    "length": 74,
+    "replacement_cost": "25.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'apollo':2 'awe':5 'awe-inspir':4 'dog':10 'drama':7 'escap':16 'inspir':6 'man':13 'must':15 'robot':18 'shark':21 'tank':22 'teen':1"
+  },
+  {
+    "film_id": 881,
+    "title": "Temple Attraction",
+    "description": "A Action-Packed Saga of a Forensic Psychologist And a Woman who must Battle a Womanizer in Soviet Georgia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 5,
+    "rental_rate": "4.99",
+    "length": 71,
+    "replacement_cost": "13.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'action':5 'action-pack':4 'attract':2 'battl':17 'forens':10 'georgia':22 'must':16 'pack':6 'psychologist':11 'saga':7 'soviet':21 'templ':1 'woman':14,19"
+  },
+  {
+    "film_id": 894,
+    "title": "Tomatoes Hellfighters",
+    "description": "A Thoughtful Epistle of a Madman And a Astronaut who must Overcome a Monkey in A Shark Tank",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 68,
+    "replacement_cost": "23.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'astronaut':11 'epistl':5 'hellfight':2 'madman':8 'monkey':16 'must':13 'overcom':14 'shark':19 'tank':20 'thought':4 'tomato':1"
+  },
+  {
+    "film_id": 904,
+    "title": "Train Bunch",
+    "description": "A Thrilling Character Study of a Robot And a Squirrel who must Face a Dog in Ancient India",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "4.99",
+    "length": 71,
+    "replacement_cost": "26.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':19 'bunch':2 'charact':5 'dog':17 'face':15 'india':20 'must':14 'robot':9 'squirrel':12 'studi':6 'thrill':4 'train':1"
+  },
+  {
+    "film_id": 911,
+    "title": "Trip Newton",
+    "description": "A Fanciful Character Study of a Lumberjack And a Car who must Discover a Cat in An Abandoned Amusement Park",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 64,
+    "replacement_cost": "14.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'abandon':20 'amus':21 'car':12 'cat':17 'charact':5 'discov':15 'fanci':4 'lumberjack':9 'must':14 'newton':2 'park':22 'studi':6 'trip':1"
+  },
+  {
+    "film_id": 914,
+    "title": "Trouble Date",
+    "description": "A Lacklusture Panorama of a Forensic Psychologist And a Woman who must Kill a Explorer in Ancient Japan",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "2.99",
+    "length": 61,
+    "replacement_cost": "13.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'ancient':19 'date':2 'explor':17 'forens':8 'japan':20 'kill':15 'lacklustur':4 'must':14 'panorama':5 'psychologist':9 'troubl':1 'woman':12"
+  },
+  {
+    "film_id": 920,
+    "title": "Unbreakable Karate",
+    "description": "A Amazing Character Study of a Robot And a Student who must Chase a Robot in Australia",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 62,
+    "replacement_cost": "16.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'amaz':4 'australia':19 'charact':5 'chase':15 'karat':2 'must':14 'robot':9,17 'student':12 'studi':6 'unbreak':1"
+  },
+  {
+    "film_id": 932,
+    "title": "Valley Packer",
+    "description": "A Astounding Documentary of a Astronaut And a Boy who must Outrace a Sumo Wrestler in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 73,
+    "replacement_cost": "21.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'astound':4 'astronaut':8 'berlin':19 'boy':11 'documentari':5 'must':13 'outrac':14 'packer':2 'sumo':16 'valley':1 'wrestler':17"
+  },
+  {
+    "film_id": 940,
+    "title": "Victory Academy",
+    "description": "A Insightful Epistle of a Mad Scientist And a Explorer who must Challenge a Cat in The Sahara Desert",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 6,
+    "rental_rate": "0.99",
+    "length": 64,
+    "replacement_cost": "19.99",
+    "rating": "PG-13",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'academi':2 'cat':17 'challeng':15 'desert':21 'epistl':5 'explor':12 'insight':4 'mad':8 'must':14 'sahara':20 'scientist':9 'victori':1"
+  },
+  {
+    "film_id": 954,
+    "title": "Wake Jaws",
+    "description": "A Beautiful Saga of a Feminist And a Composer who must Challenge a Moose in Berlin",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 7,
+    "rental_rate": "4.99",
+    "length": 73,
+    "replacement_cost": "18.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers",
+      "Commentaries",
+      "Deleted Scenes",
+      "Behind the Scenes"
+    ],
+    "fulltext": "'beauti':4 'berlin':18 'challeng':14 'compos':11 'feminist':8 'jaw':2 'moos':16 'must':13 'saga':5 'wake':1"
+  },
+  {
+    "film_id": 964,
+    "title": "Waterfront Deliverance",
+    "description": "A Unbelieveable Documentary of a Dentist And a Technical Writer who must Build a Womanizer in Nigeria",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 61,
+    "replacement_cost": "17.99",
+    "rating": "G",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Behind the Scenes"
+    ],
+    "fulltext": "'build':15 'deliver':2 'dentist':8 'documentari':5 'must':14 'nigeria':19 'technic':11 'unbeliev':4 'waterfront':1 'woman':17 'writer':12"
+  },
+  {
+    "film_id": 966,
+    "title": "Wedding Apollo",
+    "description": "A Action-Packed Tale of a Student And a Waitress who must Conquer a Lumberjack in An Abandoned Mine Shaft",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 3,
+    "rental_rate": "0.99",
+    "length": 70,
+    "replacement_cost": "14.99",
+    "rating": "PG",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Trailers"
+    ],
+    "fulltext": "'abandon':21 'action':5 'action-pack':4 'apollo':2 'conquer':16 'lumberjack':18 'mine':22 'must':15 'pack':6 'shaft':23 'student':10 'tale':7 'waitress':13 'wed':1"
+  },
+  {
+    "film_id": 989,
+    "title": "Working Microcosmos",
+    "description": "A Stunning Epistle of a Dentist And a Dog who must Kill a Madman in Ancient China",
+    "release_year": 2006,
+    "language_id": 1,
+    "rental_duration": 4,
+    "rental_rate": "4.99",
+    "length": 74,
+    "replacement_cost": "22.99",
+    "rating": "R",
+    "last_update": "2013-05-26 14:50:58.951",
+    "special_features": [
+      "Commentaries",
+      "Deleted Scenes"
+    ],
+    "fulltext": "'ancient':18 'china':19 'dentist':8 'dog':11 'epistl':5 'kill':14 'madman':16 'microcosmo':2 'must':13 'stun':4 'work':1"
+  }
+]
