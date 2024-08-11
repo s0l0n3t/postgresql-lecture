@@ -20,4 +20,5 @@ WHERE length IN(40,50);
 --lenght == 40, length == 50
 
 SELECT * FROM film
-WHERE BETWEEN replacement_cost >= 12.99 AND replacement_cost < 16.99;      
+WHERE BETWEEN replacement_cost >= 12.99 AND replacement_cost < 16.99;
+      
