@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": 598,
+    "store_id": 1,
+    "first_name": "Wade",
+    "last_name": "Delvalle",
+    "email": "wade.delvalle@sakilacustomer.org",
+    "address_id": 604,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 597,
+    "store_id": 1,
+    "first_name": "Freddie",
+    "last_name": "Duggan",
+    "email": "freddie.duggan@sakilacustomer.org",
+    "address_id": 603,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 596,
+    "store_id": 1,
+    "first_name": "Enrique",
+    "last_name": "Forsythe",
+    "email": "enrique.forsythe@sakilacustomer.org",
+    "address_id": 602,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 595,
+    "store_id": 1,
+    "first_name": "Terrence",
+    "last_name": "Gunderson",
+    "email": "terrence.gunderson@sakilacustomer.org",
+    "address_id": 601,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  }
+]
