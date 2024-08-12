@@ -29,3 +29,48 @@ SELECT * FROM tabletest;
 SELECT * FROM tabletest3;
 
 DROP TABLE IF EXISTS tabletest2;
+
+create table company (
+	id INT,
+	company_name VARCHAR(50),
+	center_city VARCHAR(50),
+	email VARCHAR(50),
+	phone VARCHAR(50),
+	password VARCHAR(50)
+);
+
+create table company (
+	id INT,
+	company_name VARCHAR(150),
+	center_city VARCHAR(150),
+	email VARCHAR(150),
+	phone VARCHAR(150),
+	password VARCHAR(150)
+);
+
+SELECT * FROM company
+WHERE company_name = 'Xerath';
+
+UPDATE company
+SET company_name = 'Google',
+    center_city = 'Kocaeli',
+    email = 'asasdas@gmail.com'
+WHERE id = 1;
+
+UPDATE company
+SET company_name = 'Xerath',
+    center_city = 'Antalya',
+    phone = 'Iphone 13'
+WHERE company_name = 'Aimbu';
+
+UPDATE company
+SET company_name = 'Redbull',
+    center_city = 'Istabul',
+    phone = 'Iphone 14'
+WHERE company_name = 'Skyble'
+RETURNING *;
+--Returning prints last changed row.
+
+DELETE FROM company
+WHERE id = 1;
+--Deletes data.
