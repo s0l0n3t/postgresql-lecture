@@ -1,0 +1,98 @@
+[
+  {
+    "customer_id": 13,
+    "store_id": 2,
+    "first_name": "Karen",
+    "last_name": "Jackson",
+    "email": "karen.jackson@sakilacustomer.org",
+    "address_id": 17,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 116,
+    "store_id": 1,
+    "first_name": "Victoria",
+    "last_name": "Gibson",
+    "email": "victoria.gibson@sakilacustomer.org",
+    "address_id": 120,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 195,
+    "store_id": 1,
+    "first_name": "Vanessa",
+    "last_name": "Sims",
+    "email": "vanessa.sims@sakilacustomer.org",
+    "address_id": 199,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 204,
+    "store_id": 1,
+    "first_name": "Rosemary",
+    "last_name": "Schmidt",
+    "email": "rosemary.schmidt@sakilacustomer.org",
+    "address_id": 208,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 237,
+    "store_id": 1,
+    "first_name": "Tanya",
+    "last_name": "Gilbert",
+    "email": "tanya.gilbert@sakilacustomer.org",
+    "address_id": 241,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 362,
+    "store_id": 1,
+    "first_name": "Nicholas",
+    "last_name": "Barfield",
+    "email": "nicholas.barfield@sakilacustomer.org",
+    "address_id": 367,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 591,
+    "store_id": 1,
+    "first_name": "Kent",
+    "last_name": "Arsenault",
+    "email": "kent.arsenault@sakilacustomer.org",
+    "address_id": 597,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 1
+  },
+  {
+    "customer_id": 592,
+    "store_id": 1,
+    "first_name": "Terrance",
+    "last_name": "Roush",
+    "email": "terrance.roush@sakilacustomer.org",
+    "address_id": 598,
+    "activebool": true,
+    "create_date": "2006-02-14",
+    "last_update": "2013-05-26 14:49:45.738",
+    "active": 0
+  }
+]
